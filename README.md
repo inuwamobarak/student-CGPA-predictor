@@ -1,9 +1,9 @@
 # Student Academic Performance Prediction for CGPA
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/student-academic-performance-prediction)
-![GitHub stars](https://img.shields.io/github/stars/your-username/student-academic-performance-prediction?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/student-academic-performance-prediction?style=social)
-![GitHub](https://img.shields.io/github/license/your-username/student-academic-performance-prediction)
+![GitHub repo size](https://img.shields.io/github/repo-size/inuwamobarak/student-CGPA-predictor)
+![GitHub stars](https://img.shields.io/github/stars/inuwamobarak/student-CGPA-predictor?style=social)
+![GitHub forks](https://img.shields.io/github/forks/inuwamobarak/student-CGPA-predictor?style=social)
+![GitHub](https://img.shields.io/github/license/inuwamobarak/student-CGPA-predictor)
 
 This repository contains a machine learning project that aims to predict a student's academic performance based on various factors to estimate their Cumulative Grade Point Average (CGPA). The project utilizes data analysis, feature engineering, and machine learning techniques to build an accurate predictive model.
 
